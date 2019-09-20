@@ -19,7 +19,11 @@ public class Main {
 	   System.out.println("What is your weight in pounds?");
 	   pound = keyboard.nextDouble();
 	   imp = 703;
-	   
+	   System.out.println(" ");
+	   System.out.println("Your body mass index is, ");
+	   System.out.println( imp* pound/(inch*inch));
+       
+
 
 
 
