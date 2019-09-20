@@ -16,6 +16,8 @@ public class Main {
 	   System.out.println("After asnwering questions your body mass index will be calculated.");
 	   System.out.println ("What is your height in inches?");
 	   inch = keyboard.nextDouble();
+	   System.out.println("What is your weight in pounds?");
+	   pound = keyboard.nextDouble();
 	   
 
 
