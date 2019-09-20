@@ -18,6 +18,7 @@ public class Main {
 	   inch = keyboard.nextDouble();
 	   System.out.println("What is your weight in pounds?");
 	   pound = keyboard.nextDouble();
+	   imp = 703;
 	   
 
 
