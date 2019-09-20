@@ -22,9 +22,9 @@ public class Main {
 	   System.out.println(" ");
 	   System.out.println("Your body mass index is, ");
 	   System.out.println( imp* pound/(inch*inch));
-       
-
-
+	   System.out.println("Depending on your gender the normality of this number may vary. ");
+	   System.out.println("The average BMI for Women is 26.5");
+	   System.out.println("The average BMI for Men is 26.6 ");
 
 
 
